@@ -1,12 +1,12 @@
 {
   "education": [
-       { "ID": 1,
-       "image": "https://i.postimg.cc/mZJ89rf3/sp.png",
+       { "ID": 0,
+       "image": "https://i.postimg.cc/6Qxsd20q/elsies.jpg",
        "title": "Education and Experience:",
-       "Education": "Years: 2018-2022 - South Peninsula High School ."
+       "Education": "Years: 2018-2022 - Elsies River High School ."
     },
     {
-        "ID": 2,
+        "ID": 1,
         "image": "https://i.postimg.cc/L84hRgWM/lc.png",
         "title": "Education and Experience:",
         "Education": "Years: 2023-Current - Life Choices Coding Academy ."
