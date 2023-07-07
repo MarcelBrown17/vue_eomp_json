@@ -1,14 +1,17 @@
 {
   "education": [
-        {
-         "school":"Elsies River High School",
-         "highestDegree": "Matric certificate",
-         "yearMatriculated": "Matriculated in 2022",
-         "subject1": "Computer Applications Technology",
-         "subject2": "Economics",
-         "subject3": "Business"         
-        }
-  ],
+       { "ID": 1,
+       "image": "https://i.postimg.cc/mZJ89rf3/sp.png",
+       "title": "Education and Experience:",
+       "Education": "Years: 2018-2022 - South Peninsula High School ."
+    },
+    {
+        "ID": 2,
+        "image": "https://i.postimg.cc/L84hRgWM/lc.png",
+        "title": "Education and Experience:",
+        "Education": "Years: 2023-Current - Life Choices Coding Academy ."
+    }
+    ],
   
   "testimonials": [
       {
