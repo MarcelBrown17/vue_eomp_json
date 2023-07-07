@@ -1,12 +1,12 @@
 {
   "education": [
-       { "ID": 0,
+       { "ID": 1,
        "image": "https://i.postimg.cc/gkddDNPh/images-1.jpg",
        "title": "Education and Experience:",
        "Education": "Years: 2018-2022 - Elsies River High School ."
     },
     {
-        "ID": 1,
+        "ID": 2,
         "image": "https://i.postimg.cc/L84hRgWM/lc.png",
         "title": "Education and Experience:",
         "Education": "Years: 2023-Current - Life Choices Coding Academy ."
