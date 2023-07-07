@@ -97,30 +97,32 @@
 ],
 
 "skills": [
-  {
-    "id":"0",
-    "title":"Skills",
-    "skill1":"Html",
-    "skill2":"Css",
-    "skill3":"Bootstrap",
-    "skill4":"JavaScript"
-  },
-  {
-    "id":"0",
-    "title":"Soft Skills",
-    "skill1":"Communication",
-    "skill2":"Team Work",
-    "skill3":"Time Management",
-    "skill4":"Leader"
-  },
-  {
-    "id":"1",
-    "title":"Technical Skills",
-    "skill1":"Microsoft Office",
-    "skill2":"Vue.js",
-    "skill3":"HTML",
-    "skill4":"CSS"
-  }
+    {
+      "id":"0",
+      "title":"Skills",
+      "skill1":"Html",
+      "skill2":"Css",
+      "skill3":"Bootstrap",
+      "skill4":"JavaScript"
+    },
+    {
+      "id":"1",
+      "softTitle":"Soft Skills",
+      "softSkill1":"Communication",
+      "softSkill2":"Team Work",
+      "softSkill3":"Time Management",
+      "softSkill4":"Leader"
+
+    },
+    {
+      "id":"2",
+      "techTitle":"Technical Skills",
+      "techSkill1":"Microsoft Office",
+      "techSkill2":"Vue.js",
+      "techSkill3":"HTML",
+      "techSkill4":"CSS"
+    }
 ]
 }
+
 
